@@ -1,0 +1,22 @@
+{
+  "name": "hyperspace-portfolio",
+  "version": "1.0.0",
+  "description": "portfolio site",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderTousif/hyperspace-porfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoderTousif/hyperspace-porfolio/issues"
+  },
+  "homepage": "https://github.com/CoderTousif/hyperspace-porfolio",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
