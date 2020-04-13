@@ -2,6 +2,7 @@
     "name": "hyperspace-portfolio",
     "version": "1.0.0",
     "description": "portfolio site",
+    "homepage": "https://tousif.xyz",
     "main": "index.js",
     "scripts": {
         "deploy": "gh-pages -d dist"
@@ -10,12 +11,10 @@
         "type": "git",
         "url": "git+https://github.com/CoderTousif/hyperspace-porfolio.git"
     },
-    "author": "",
-    "license": "ISC",
+    "author": "Tousif",
     "bugs": {
         "url": "https://github.com/CoderTousif/hyperspace-porfolio/issues"
     },
-    "homepage": "http://tousif.xyz",
     "dependencies": {
         "gh-pages": "^2.2.0"
     }
